@@ -1,2 +1,1 @@
-# note
-simple notepad
+<!--notes--><!--/notes-->
