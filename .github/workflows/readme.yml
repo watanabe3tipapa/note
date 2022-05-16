@@ -14,4 +14,4 @@ jobs:
       - name: Update note summary
         uses: AnandChowdhary/notes-summary@master
         with:
-          token: "${{ secrets.GITHUB_TOKEN }}"
+          token: "${{ SATOPAPA }}"
